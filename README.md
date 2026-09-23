@@ -43,18 +43,18 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tmmichaelsen&show_icons=true&theme=transparent&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tmmichaelsen&show_icons=true&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tmmichaelsen&show_icons=true&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=herrtmm&show_icons=true&theme=transparent&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=herrtmm&show_icons=true&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=herrtmm&show_icons=true&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tmmichaelsen&show_icons=true&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=herrtmm&show_icons=true&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tmmichaelsen&limit=5&show_icons=true&theme=transparent&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=herrtmm&limit=5&show_icons=true&theme=transparent&combine_all_yearly_contributions=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=tmmichaelsen&icon=5&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=herrtmm&icon=5&color=1)](https://visitcount.itsvg.in)
